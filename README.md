@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dineshreddy8833
-- 👀 I’m interested in ...developing programms using python
+- 👀 I’m interested in ...developing programms using both frontend and backend technologies.
 - 🌱 I’m currently learning ...python,django,and full stack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mobile no: 7032883354
