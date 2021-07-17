@@ -3,7 +3,7 @@
 - 🌱 I’m currently searching  for...python,django,and full stack developer roles.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mobile no: 7032883354
-email: dineshkumarreddy004@gmail.com.
+Email: dineshkumarreddy004@gmail.com.
 
 <!---
 dineshreddy8833/dineshreddy8833 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
