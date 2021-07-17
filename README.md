@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dineshreddy8833
 - 👀 I’m interested in ...developing programms using both frontend and backend technologies.
-- 🌱 I’m currently learning ...python,django,and full stack.
+- 🌱 I’m currently searching  for...python,django,and full stack developer roles.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mobile no: 7032883354
 email: dineshkumarreddy004@gmail.com.
