@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dineshreddy8833
-- 👀 I’m interested in ...developing web  Applications.
+- 👀 I’m interested in ...Developing and Testing  web Applications.
 - 🌱 I’m currently searching  for...python,django,and java selenium Automation Testing roles.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mobile no: 7032883354, 
