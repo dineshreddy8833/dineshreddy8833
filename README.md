@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dineshreddy8833
+- 👋 Hi, I’m Dinesh Kumar Reddy
 - 👀 I’m interested in Testing  web Applications.
 - 🌱 I’m currently searching  for java selenium Automation Testing roles.
 - 💞️ I’m looking to collaborate on ...
